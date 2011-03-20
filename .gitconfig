@@ -1,0 +1,12 @@
+[user]
+	name = tomoya ueda
+	email = to.ueda82@gmail.com
+[alias]
+    st = status
+    ci = commit
+    co = checkout
+    br = branch
+    dif = diff
+    l =log -5
+    webst = instaweb --httpd=webrick --start
+    websp = instaweb --httpd=webrick --stop
