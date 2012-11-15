@@ -215,7 +215,6 @@ function! CommentOut()
     :nohlsearch
 endf
 "---------------------------------------------------------------------
-
 " preview interpreter's output(Tip #1244)
 "function! Ruby_eval_vsplit() range
 "    if &filetype == "ruby"
